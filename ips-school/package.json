@@ -1,0 +1,16 @@
+{
+  "name": "ips-school",
+  "version": "1.0.0",
+  "description": "Official school website for ips-school",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -p 3000"
+  },
+  "keywords": ["school", "website", "education", "github-pages"],
+  "author": "School Management System",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
