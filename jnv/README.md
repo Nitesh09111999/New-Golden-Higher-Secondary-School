@@ -1,6 +1,6 @@
-# Jnv - Official School Website
+# JNV - Official School Website
 
-This is the official website for Jnv.
+This is the official website for JNV.
 
 ## 🌐 Live Website
 **URL:** https://Nitesh09111999.github.io/New-Golden-Higher-Secondary-School/jnv/
@@ -31,4 +31,4 @@ This website is automatically deployed to GitHub Pages when changes are pushed t
 For any issues, please contact the school administration.
 
 ---
-Generated on: 2025-08-21 17:01:09
+Generated on: 2025-08-22 14:03:32
