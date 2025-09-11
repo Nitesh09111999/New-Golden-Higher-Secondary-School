@@ -1,6 +1,6 @@
-# GOVT.P. S. SCHOOL VIJAY NAGAR INDORE - Official School Website
+# GOVT. P. S. SCHOOL VIJAY NAGAR INDORE - Official School Website
 
-This is the official website for GOVT.P. S. SCHOOL VIJAY NAGAR INDORE.
+This is the official website for GOVT. P. S. SCHOOL VIJAY NAGAR INDORE.
 
 ## 🌐 Live Website
 **URL:** https://Nitesh09111999.github.io/New-Golden-Higher-Secondary-School/govt-p-s-school-vijay-nagar-indore/
@@ -31,4 +31,4 @@ This website is automatically deployed to GitHub Pages when changes are pushed t
 For any issues, please contact the school administration.
 
 ---
-Generated on: 2025-09-04 16:25:45
+Generated on: 2025-09-11 10:48:18
